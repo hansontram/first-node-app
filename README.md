@@ -3,6 +3,7 @@
 This app allows a user to track a list of quotes from Star Wars Characters. Users can create, replace, and delete entries. 
 
 ![alt text](img/star.jpg)
+![star](https://user-images.githubusercontent.com/97640502/190879875-65a3fe9e-e0ce-4952-af6f-9e4e2537aca6.jpg)
 
 ## How It's Made:
 
