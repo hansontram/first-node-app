@@ -2,7 +2,7 @@
 # Star Wars Quote App
 This app allows a user to track a list of quotes from Star Wars Characters. Users can create, replace, and delete entries. 
 
-![alt tag](img/star.jpg)
+![alt text](img/star.jpg)
 
 ## How It's Made:
 
