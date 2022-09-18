@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const { urlencoded } = require("body-parser");
 const app = express();
 const MongoClient = require("mongodb").MongoClient;
-const connectionString ="mongodb+srv://hansondev:LebronJames23@cluster0.kqu8kr5.mongodb.net/?retryWrites=true&w=majority";
+// const connectionString = *redacted for security
 
 MongoClient.connect(connectionString, { useUnifiedTopology: true })
   .then((client) => {
